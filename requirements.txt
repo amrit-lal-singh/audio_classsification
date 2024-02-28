@@ -1,0 +1,6 @@
+tflite-support==0.2.2
+PyAudio==0.2.11
+numpy==1.21.2
+SoundFile==0.10.3.post1
+matplotlib==3.4.3
+librosa==0.8.1
